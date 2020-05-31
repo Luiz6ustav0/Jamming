@@ -7,3 +7,6 @@ This is a web application where you can search, pick the songs you want, see the
 ### :arrow_right: Next steps:
   * Allow user to create a new playlist "randomly" based on his musical interestes
   * Allow users to create playlists based on several different profiles(Friend's playlist)
+
+
+###### This was made by me during the Web Development Career Path on codecademy.com
