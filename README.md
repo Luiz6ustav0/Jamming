@@ -6,7 +6,7 @@
 
 ### :arrow_right: Next steps:
   * Allow user to create a new playlist "randomly" based on his musical interestes
-  * Allow users to create playlists based on several different profiles(Friend's playlist)
+  * Allow users to create playlists based on several different profiles(Friends playlist)
 
 
 ###### This was made by me during the Web Development Career Path on [codecademy.com](codecademy.com)
