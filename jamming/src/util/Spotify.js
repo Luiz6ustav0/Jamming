@@ -17,9 +17,8 @@ export const Spotify = {
             window.history.pushState('Access Token', null, '/');
             return accessToken;
         } else {
-            console.log('clientID: ' + clientID);
             const accessUrl = `https://accounts.spotify.com/authorize?client_id=${clientID}&response_type=token&scope=playlist-modify-public&redirect_uri=${redirectURI}`;
-            window.location = accessUrl;
+            // window.location.href = accessUrl;
         }
     },
 
@@ -50,7 +49,7 @@ export const Spotify = {
 
         if(!playlistName || !trackUris) return;
 
-        const access_token = Spotify.getAccessToken();
+        const access_token = accessToken;
         const headers = {
             Authorization: `Bearer ${access_token}`
         };
