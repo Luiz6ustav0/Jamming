@@ -8,5 +8,9 @@
   * Allow user to create a new playlist "randomly" based on his musical interestes
   * Allow users to create playlists based on several different profiles(Friends playlist)
 
+### :arrow_right: Screenshots:
+![Search screen](https://raw.githubusercontent.com/Luiz6ustav0/Jamming/master/Screenshot%20Seach.jpg)
+![Screen](https://raw.githubusercontent.com/Luiz6ustav0/Jamming/master/Screenshot%20Basic.jpg)
+
 
 ###### This was made by me during the Web Development Career Path on [codecademy.com](codecademy.com)
