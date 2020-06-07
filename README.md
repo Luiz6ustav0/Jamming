@@ -1,5 +1,4 @@
-![Jamming](https://s3.amazonaws.com/codecademy-content/programs/react/jammming/favicon.ico)
-
+<div style="text-align:center"><img src="https://s3.amazonaws.com/codecademy-content/programs/react/jammming/favicon.ico" /></div>
 
 # :headphones: Jamming:headphones:
 <p>This is a web application where you can search, pick the songs you want, see them in a list and create a new playlist on spotify based on what you choosed.</p>
