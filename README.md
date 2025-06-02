@@ -1,5 +1,7 @@
 <div style="text-align:center"><img src="https://s3.amazonaws.com/codecademy-content/programs/react/jammming/favicon.ico" /></div>
 
+### Deprecated. Sadly the spotify api data isn't available anymore as before and I haven't thought about updating this
+
 # :headphones: [Jamming](http://jamming-luiz6ustav0.surge.sh/) :headphones:
 <p>This is a web application where you can search, pick the songs you want, see them in a list and create a new playlist on spotify based on what you choosed.</p>
 
@@ -11,6 +13,3 @@
 ### :arrow_right: Screenshots:
 ![Search screen](https://raw.githubusercontent.com/Luiz6ustav0/Jamming/master/Screenshot%20Seach.jpg)
 ![Screen](https://raw.githubusercontent.com/Luiz6ustav0/Jamming/master/Screenshot%20Basic.jpg)
-
-
-###### This was made by me during the Web Development Career Path on [codecademy.com](codecademy.com)
